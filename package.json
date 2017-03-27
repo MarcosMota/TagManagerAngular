@@ -1,0 +1,13 @@
+ 
+{
+  "name": "tagManagerAngular",
+  "version": "1.0.0",
+  "description": "Tag Manager",
+  "author": "Marcos Mota <marcos.mota287@gmail.com>",
+  "devDependencies": {
+ "gulp": "*",
+ "gulp-uglify" : "*",
+ "gulp-concat" : "*",
+ "gulp-minify-css":"*"
+  }
+}
